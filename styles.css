@@ -1,0 +1,41 @@
+.postcard {
+  width: fit-content;
+  height: fit-content;
+}
+.container1 {
+  display: flex;
+  justify-content: space-between;
+}
+.tittle{
+display: flex;
+justify-content: center;
+align-items: center;
+margin-left: 10px;
+}
+.img{
+  width: 70px;
+}
+.container2{
+  display: flex;
+}
+.firstParagraph{
+  margin: 10px;
+}
+.inputPostcard{
+  display: flex;
+  flex-direction: column;
+  margin: 10px;
+}
+.input {
+  margin: 10px 10px 0 10px;
+  text-decoration: underline;
+  border: 0;
+}
+.sendButton{
+  display: flex;
+  justify-content: center;
+}
+.button{
+  background-color: #BEC1BE;
+
+}
